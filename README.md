@@ -10,7 +10,7 @@ I have been programming for over 2 years, always learning new technologies and k
 
 ***TODO*** --> http://denis-todo.vercel.app/ (React) 
 
-***Amazing_taiwan*** --> https://denis-paziak.github.io/Amazing_taiwan/ (Landing page)
+***Amazing-taiwan*** --> https://denis-paziak.github.io/Amazing-taiwan/ (Landing page)
 
 
 
