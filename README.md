@@ -2,19 +2,8 @@
 # Hi 👋, I'm Denis
 
 ## 🚀 About Me
-I'm a Web developer.
-I have been programming for over 2 years, always learning new technologies and keeping up with the times. My main advantage is the desire to learn and improve
-
-
-## 🔗 WORKS
-
-***TODO*** --> http://denis-todo.vercel.app/ (React) 
-
-***Amazing-taiwan*** --> https://denis-paziak.github.io/Amazing-taiwan/ (Landing page)
-
-
-
+I am always interested in learning new technologies and improving my skills. My goal is to develop innovative solutions that will help solve complex problems in an efficient way.
 
 ## 🛠 Skills
-Javascript, React, redux, node.js JAVA, Scss, Gulp, bootstrap...
+Scss, Javascript, TypeScript, React, Redux...
 
