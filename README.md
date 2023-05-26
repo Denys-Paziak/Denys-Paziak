@@ -29,4 +29,5 @@ results in my work.
 - TypeScript
 - React
 - Redux
+- MySQL
 
