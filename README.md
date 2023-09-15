@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Denis
+# Hi 👋, I'm Denys
 
 ## 🚀 About Me
 Front-end developer with +2 years of experience in creating and maintaining
